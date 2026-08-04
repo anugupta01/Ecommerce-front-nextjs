@@ -1,4 +1,4 @@
-# Ecommerce Website using Next.js 16.2.12
+#  Electronic Gadgets E-commerce Website using Next.js 16.2.12
 
 **architecture and functionality** to the Next.js, deliberately showcasing Next.js's advanced features. Run
 `npm install && npm run build` to verify locally.
